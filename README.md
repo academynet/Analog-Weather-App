@@ -7,5 +7,6 @@ Youtube Video: https://youtu.be/uGqhPtUVv9Q?si=ykQMIDtsC99fDbCb
 </h3>
 
 </br>
-![AnalogWeatherApp_Project (Time 0_25_45;04)](https://github.com/academynet/Analog-Weather-App/assets/139820934/87a805f1-8b8e-461c-bc6f-1360afdb6bd0)
+
+https://github.com/academynet/Analog-Weather-App/assets/139820934/87a805f1-8b8e-461c-bc6f-1360afdb6bd0
 
